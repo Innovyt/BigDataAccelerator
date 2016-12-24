@@ -16,30 +16,37 @@ Domain is set to: innovyt.com
 ############################### 
 Please enter details for server: 1
  
- Enter network IP > 
-192.168.0.50
-Enter memory > 
+Enter network IP > 
+192.168.2.51
+
+Enter memory(MB) > 
 1000
+
 Enter number of CPUs > 
 1
 ############################### 
 Please enter details for server: 2
  
 Enter network IP > 
-192.168.0.51
-Enter memory > 
+192.168.2.52
+
+Enter memory(MB) > 
 1000
+
 Enter number of CPUs > 
 1
 ############################### 
 Please enter details for server: 3
  
 Enter network IP > 
-192.168.0.52
-Enter memory > 
+192.168.2.53
+
+Enter memory(MB) > 
 1000
+
 Enter number of CPUs > 
 1
+
 Scripts are generated... Please run 'vagrant up server3 server2 server1 ' to start the cluster.
 
 There is a example folder which holds the files generated for the above sample script. 
