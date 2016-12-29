@@ -1,0 +1,1 @@
+cat /etc/ambari-agent/conf/ambari-agent.ini |sed 's/localhost/server1.innovyt.com/g' > /etc/ambari-agent/conf/ambari-agent.ini.new
